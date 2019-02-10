@@ -1,0 +1,10 @@
+D:\GameXO\GameXO\bin\Debug\GameXO.exe.config
+D:\GameXO\GameXO\bin\Debug\GameXO.exe
+D:\GameXO\GameXO\bin\Debug\GameXO.pdb
+D:\GameXO\GameXO\obj\Debug\GameXO.csprojAssemblyReference.cache
+D:\GameXO\GameXO\obj\Debug\GameXO.Form1.resources
+D:\GameXO\GameXO\obj\Debug\GameXO.Properties.Resources.resources
+D:\GameXO\GameXO\obj\Debug\GameXO.csproj.GenerateResource.cache
+D:\GameXO\GameXO\obj\Debug\GameXO.csproj.CoreCompileInputs.cache
+D:\GameXO\GameXO\obj\Debug\GameXO.exe
+D:\GameXO\GameXO\obj\Debug\GameXO.pdb
